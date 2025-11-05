@@ -1,0 +1,23 @@
+
+export const LANGUAGES = [
+    { lang: 'ENGLISH', text: 'COMING SOON' },
+    { lang: 'FINNISH', text: 'TULOSSA PIAN' },
+    { lang: 'ESTONIAN', text: 'VARSTI TULEMAS' },
+    { lang: 'FRENCH', text: 'BIENTÔT DISPONIBLE' },
+    { lang: 'GERMAN', text: 'BALD VERFÜGBAR' },
+    { lang: 'SPANISH', text: 'PRÓXIMAMENTE' },
+    { lang: 'ITALIAN', text: 'PROSSIMAMENTE' },
+    { lang: 'PORTUGUESE', text: 'EM BREVE' },
+    { lang: 'RUSSIAN', text: 'СКОРО' },
+    { lang: 'CHINESE (SIMPLIFIED)', text: '即将推出' },
+    { lang: 'JAPANESE', text: '近日公開' },
+    { lang: 'KOREAN', text: '곧 공개됩니다' },
+    { lang: 'ARABIC', text: 'قريباً' },
+    { lang: 'HINDI', text: 'जल्द आ रहा है' },
+    { lang: 'TURKISH', text: 'ÇOK YAKINDA' },
+    { lang: 'DUTCH', text: 'BINNENKORT BESCHIKBAAR' },
+    { lang: 'SWEDISH', text: 'KOMMER SNART' },
+    { lang: 'POLISH', text: 'WKRÓTCE DOSTĘPNE' },
+    { lang: 'GREEK', text: 'ΣΥΝΤΟΜΑ ΚΟΝΤΑ ΣΑΣ' },
+    { lang: 'THAI', text: 'เร็วๆ นี้' },
+];
