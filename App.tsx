@@ -1,7 +1,7 @@
 
 import React from 'react';
 import CosmicAnimation from './components/CosmicAnimation';
-import Chatbot from './components/Chatbot';
+// import Chatbot from './components/Chatbot';
 
 const App: React.FC = () => {
 
@@ -25,7 +25,7 @@ const App: React.FC = () => {
             iFLUXONE
         </div>
       </div>
-      <Chatbot />
+      {/* <Chatbot /> */}
     </main>
   );
 };
